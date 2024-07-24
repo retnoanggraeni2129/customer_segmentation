@@ -1,0 +1,2 @@
+# customer_segmentation
+study_case_project_for_clustering
